@@ -1,6 +1,6 @@
 # Breaking-Bad-Analysis
 
-![Uploading Breaking-Bad.jpg…]()
+![image](https://conversationsabouther.net/wp-content/uploads/2014/10/Breaking-Bad.jpg)
 
 
 An analysis on only the greatest series of all time, Breaking Bad. 
