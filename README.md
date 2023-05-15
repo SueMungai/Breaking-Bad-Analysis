@@ -1,6 +1,8 @@
 # Breaking-Bad-Analysis
 
 ![Uploading Breaking-Bad.jpg…]()
+
+
 An analysis on only the greatest series of all time, Breaking Bad. 
 
 
