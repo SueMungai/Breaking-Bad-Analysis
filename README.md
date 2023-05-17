@@ -21,5 +21,5 @@ This project was inspired by my new found love for the critically-acclaimed seri
 
 # 2. Data Understanding
 ## Data Collection
-The data was scraped from the [Springfield! Springfield! website](https://www.springfieldspringfield.co.uk/) It is a website that has all movies/shows scripts
+The data was scraped from the [Forever Dreaming website](https://transcripts.foreverdreaming.org/viewforum.php?f=165&sid=18a2d0725580199573a521ce00dc350a) It is a website that has all movies/shows scripts
 The series had a total number of 62 episodes. 
