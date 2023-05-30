@@ -16,7 +16,7 @@ Set and filmed in Albuquerque, New Mexico, the series follows Walter White, an u
 In 2013, Breaking Bad entered the Guinness World Records as the most critically acclaimed TV show of all-time.
 ![image](https://github.com/jishnukoliyadan/the_breaking_bad_network/raw/master/src/imgs/rottentomatoes_review.png)
 
-## The Project
+### The Project
 This project was inspired by my new found love for the critically-acclaimed series. It will be a sentiment analysis of character dialogues: You can analyze the dialogues of different characters in Breaking Bad and see which characters speak the most, which words they use the most, and how their language changes over time. 
 
 
