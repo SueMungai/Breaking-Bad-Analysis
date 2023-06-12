@@ -25,6 +25,6 @@ This project was inspired by my new found love for the critically-acclaimed seri
 This one took a while, first it involved finding a website that had the transcripts in the format I desired; that was the 'character: dialogue'
 The data was scraped from the [Forever Dreaming website](https://transcripts.foreverdreaming.org/viewforum.php?f=165&sid=18a2d0725580199573a521ce00dc350a) It is a website that has all movies/shows scripts
 The series had a total number of 62 episodes. 
-We will use the first 3 seasons, because the transcripts available online has labels attached to each dialogue until episode 6 of season 3. We will exhaust these transcripts as we search for more resources online. This has been proven to be an uphill battle.
+We will use the first 3 seasons, because the transcripts available online has labels attached to each dialogue until episode 6 of season 3. We will exhaust these transcripts as we search for more resources online. This has been proven to be an uphill battle. Options can be to find a different website or chenge the entire directory of the project
 
 ## Exploratory Data Analysis
