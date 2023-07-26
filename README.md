@@ -17,7 +17,7 @@ In 2013, Breaking Bad entered the Guinness World Records as the most critically 
 ![image](https://github.com/jishnukoliyadan/the_breaking_bad_network/raw/master/src/imgs/rottentomatoes_review.png)
 
 ### The Project
-This project was inspired by my new found love for the critically-acclaimed series. It will be a sentiment analysis of character dialogues: You can analyze the dialogues of different characters in Breaking Bad and see which characters speak the most, which words they use the most, and how their language changes over time. Can we see any evolution in their dialogue and their character as a whole?
+This project was inspired by my new found love for the critically-acclaimed series. It will be a sentiment analysis of character dialogues using Natural Language Processing(NLP). You can analyze the dialogues of different characters in Breaking Bad and see which characters speak the most, which words they use the most, and how their language changes over time. Can we see any evolution in their dialogue and their character as a whole?
 
 
 # 2. Data Understanding
